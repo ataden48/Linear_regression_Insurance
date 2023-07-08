@@ -10,5 +10,8 @@ The small size of the dataset limited the model's ability to capture significant
 ## Suggestions for Improvement
 To improve the performance and reliability of the model, it is recommended to use a larger and more diverse dataset. This will allow the model to learn better and make more accurate predictions on real-world data.
 
-
+## Running the Project
+1. Start Jupyter Notebook: `jupyter notebook`
+2. Open the notebook file: `linear_regression.ipynb`
+3. Execute the notebook cells to train the model and obtain results
 
